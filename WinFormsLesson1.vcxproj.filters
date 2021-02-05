@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MessageBoxRealization.cpp">
+      <Filter>Task1\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="GuessingGUI.cpp">
+      <Filter>Task2\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="GuessingLogics.cpp">
+      <Filter>Task2\Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Task1">
+      <UniqueIdentifier>{26e14f95-a0eb-43e3-8059-d570eabe9013}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Task1\Headers">
+      <UniqueIdentifier>{bf30aaf2-619c-4c40-b19f-83af309eb4a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Task1\Classes">
+      <UniqueIdentifier>{dce8de2f-653a-4ef5-9b1c-aca0ac12fa3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Task2">
+      <UniqueIdentifier>{38360a91-62b6-4a0d-b057-2c79538960f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Task2\Headers">
+      <UniqueIdentifier>{6caca74c-d48a-482c-8242-f98b785108fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Task2\Classes">
+      <UniqueIdentifier>{ead505f2-2ba4-4922-b256-655d1da929bb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MessageBoxHeader.h">
+      <Filter>Task1\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GuessingHeader.h">
+      <Filter>Task2\Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
