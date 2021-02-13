@@ -1,0 +1,332 @@
+﻿Black sun with rays	☀	U+2600	&#9728;	Clear weather
+Cloud	☁	U+2601	&#9729;	Cloud, cloudy weather
+Umbrella	☂	U+2602	&#9730;	Umbrella, rainy weather
+Snowman	☃	U+2603	&#9731;	Snowman, snowy weather
+Comet	☄	U+2604	&#9732;	
+Black star	★	U+2605	&#9733;	
+White star	☆	U+2606	&#9734;	
+Lightning	☇	U+2607	&#9735;	Lightning
+Thunderstorm	☈	U+2608	&#9736;	Thunderstorm
+Sun	☉	U+2609	&#9737;	Sun, gold
+Ascending node	☊	U+260A	&#9738;	
+Descending node	☋	U+260B	&#9739;	
+Conjunction	☌	U+260C	&#9740;	Open circuit
+Opposition	☍	U+260D	&#9741;	Closed circuit
+Black telephone	☎	U+260E	&#9742;	
+White telephone	☏	U+260F	&#9743;	
+Ballot box	☐	U+2610	&#9744;	Check box, optional information
+Ballot box with check	☑	U+2611	&#9745;	
+Ballot box with X	☒	U+2612	&#9746;	
+Saltire	☓	U+2613	&#9747;	
+Umbrella with raindrops	☔	U+2614	&#9748;	Showery weather
+Hot beverage	☕	U+2615	&#9749;	Tea, coffee, hot chocolate
+White shogi piece	☖	U+2616	&#9750;	
+Black shogi piece	☗	U+2617	&#9751;	
+Shamrock	☘	U+2618	&#9752;	Good luck
+Reversed rotated floral heart bullet	☙	U+2619	&#9753;	Binding signature mark
+Black left pointing index	☚	U+261A	&#9754;	
+Black right pointing index	☛	U+261B	&#9755;	
+White left pointing index	☜	U+261C	&#9756;	
+White up pointing index	☝	U+261D	&#9757;	
+White right pointing index	☞	U+261E	&#9758;	
+White down pointing index	☟	U+261F	&#9759;	
+Skull and crossbones	☠	U+2620	&#9760;	Poison, death
+Caution sign	☡	U+2621	&#9761;	
+Radioactive sign	☢	U+2622	&#9762;	Toxic hazard, nuclear fallout
+Biohazard sign	☣	U+2623	&#9763;	Disease, epidemic, pandemic
+Caduceus	☤	U+2624	&#9764;	Trade
+Ankh	☥	U+2625	&#9765;	Religious symbol
+Orthodox cross	☦	U+2626	&#9766;	Patriarchal cross
+Chi Rho	☧	U+2627	&#9767;	Labarum
+Cross of Lorraine	☨	U+2628	&#9768;	Patriarchal cross
+Cross of Jerusalem	☩	U+2629	&#9769;	Cross potent
+Star and crescent	☪	U+262A	&#9770;	Emblem of Turkey; Islam
+Farsi symbol	☫	U+262B	&#9771;	Coat of arms of Iran
+Adi shakti	☬	U+262C	&#9772;	Khanda
+Hammer and sickle	☭	U+262D	&#9773;	Communism
+Peace symbol	☮	U+262E	&#9774;	Peace
+Yin yang	☯	U+262F	&#9775;	Taoism, balance
+Trigram for Heaven	☰	U+2630	&#9776;	
+Trigram for Lake	☱	U+2631	&#9777;	
+Trigram for Fire	☲	U+2632	&#9778;	
+Trigram for Thunder	☳	U+2633	&#9779;	
+Trigram for Wind	☴	U+2634	&#9780;	
+Trigram for Water	☵	U+2635	&#9781;	
+Trigram for Mountain	☶	U+2636	&#9782;	
+Trigram for Earth	☷	U+2637	&#9783;	
+Wheel of Dharma	☸	U+2638	&#9784;	
+White frowning face	☹	U+2639	&#9785;	
+White smiling face	☺	U+263A	&#9786;	
+Black smiling face	☻	U+263B	&#9787;	
+White sun with rays	☼	U+263C	&#9788;	Compass
+First quarter moon	☽	U+263D	&#9789;	Silver
+Last quarter moon	☾	U+263E	&#9790;	
+Mercury	☿	U+263F	&#9791;	Mercury (planet), mercury (element), Hermaphrodite
+Venus	♀	U+2640	&#9792;	Venus (planet), copper, femininity, Woman
+Earth	♁	U+2641	&#9793;	Antimony
+Mars	♂	U+2642	&#9794;	Mars (planet), iron, masculinity, Man
+Jupiter	♃	U+2643	&#9795;	Jupiter (planet), tin
+Saturn	♄	U+2644	&#9796;	Saturn (planet), lead
+Uranus	♅	U+2645	&#9797;	For the astronomical symbol see U+26E2
+Neptune	♆	U+2646	&#9798;	Neptune (planet)
+Pluto	♇	U+2647	&#9799;	Pluto
+Aries	♈	U+2648	&#9800;	Aries (constellation)
+Taurus	♉	U+2649	&#9801;	Taurus (constellation)
+Gemini	♊	U+264A	&#9802;	Gemini (constellation)
+Cancer	♋	U+264B	&#9803;	Cancer (constellation)
+Leo	♌	U+264C	&#9804;	Leo (constellation)
+Virgo	♍	U+264D	&#9805;	Virgo (constellation)
+Libra	♎	U+264E	&#9806;	Libra (constellation)
+Scorpius	♏	U+264F	&#9807;	Scorpius (constellation), minim
+Sagittarius	♐	U+2650	&#9808;	Sagittarius (constellation)
+Capricorn	♑	U+2651	&#9809;	Capricornus (constellation)
+Aquarius	♒	U+2652	&#9810;	Aquarius (constellation)
+Pisces	♓	U+2653	&#9811;	Pisces (constellation)
+White chess king	♔	U+2654	&#9812;	
+White chess queen	♕	U+2655	&#9813;	
+White chess rook	♖	U+2656	&#9814;	
+White chess bishop	♗	U+2657	&#9815;	
+White chess knight	♘	U+2658	&#9816;	
+White chess pawn	♙	U+2659	&#9817;	
+Black chess king	♚	U+265A	&#9818;	
+Black chess queen	♛	U+265B	&#9819;	
+Black chess rook	♜	U+265C	&#9820;	
+Black chess bishop	♝	U+265D	&#9821;	
+Black chess knight	♞	U+265E	&#9822;	
+Black chess pawn	♟	U+265F	&#9823;	
+Black spade suit	♠	U+2660	&spades;	
+White heart suit	♡	U+2661	&#9825;	
+White diamond suit	♢	U+2662	&#9826;	
+Black club suit	♣	U+2663	&clubs;	
+White spade suit	♤	U+2664	&#9828;	
+Black heart suit	♥	U+2665	&hearts;	
+Black diamond suit	♦	U+2666	&diams;	
+White club suit	♧	U+2667	&#9831;	
+Hot springs	♨	U+2668	&#9832;	Onsen
+Quarter note	♩	U+2669	&#9833;	Crotchet
+Eighth note	♪	U+266A	&#9834;	Quaver
+Beamed eighth notes	♫	U+266B	&#9835;	Linked quavers
+Beamed sixteenth notes	♬	U+266C	&#9836;	Linked semi-quavers
+Music flat sign	♭	U+266D	&#9837;	
+Music natural sign	♮	U+266E	&#9838;	
+Music sharp sign	♯	U+266F	&#9839;	
+West Syriac cross	♰	U+2670	&#9840;	
+East Syriac cross	♱	U+2671	&#9841;	
+Universal recycling symbol	♲	U+2672	&#9842;	
+Recycling symbol for type-1 plastics	♳	U+2673	&#9843;	
+Recycling symbol for type-2 plastics	♴	U+2674	&#9844;	
+Recycling symbol for type-3 plastics	♵	U+2675	&#9845;	
+Recycling symbol for type-4 plastics	♶	U+2676	&#9846;	
+Recycling symbol for type-5 plastics	♷	U+2677	&#9847;	
+Recycling symbol for type-6 plastics	♸	U+2678	&#9848;	
+Recycling symbol for type-7 plastics	♹	U+2679	&#9849;	
+Recycling symbol for generic materials	♺	U+267A	&#9850;	
+Black universal recycling symbol	♻	U+267B	&#9851;	
+Recycled paper symbol	♼	U+267C	&#9852;	
+Partially-recycled paper symbol	♽	U+267D	&#9853;	
+Permanent paper sign	♾	U+267E	&#9854;	
+Wheelchair symbol	♿	U+267F	&#9855;	
+Die face-1	⚀	U+2680	&#9856;	
+Die face-2	⚁	U+2681	&#9857;	
+Die face-3	⚂	U+2682	&#9858;	
+Die face-4	⚃	U+2683	&#9859;	
+Die face-5	⚄	U+2684	&#9860;	
+Die face-6	⚅	U+2685	&#9861;	
+White circle with dot right	⚆	U+2686	&#9862;	
+White circle with two dots	⚇	U+2687	&#9863;	
+Black circle with white dot right	⚈	U+2688	&#9864;	
+Black circle with two white dots	⚉	U+2689	&#9865;	
+Monogram for yang	⚊	U+268A	&#9866;	
+Monogram for yin	⚋	U+268B	&#9867;	
+Digram for greater yang	⚌	U+268C	&#9868;	
+Digram for lesser yin	⚍	U+268D	&#9869;	
+Digram for lesser yang	⚎	U+268E	&#9870;	
+Digram for greater yin	⚏	U+268F	&#9871;	
+White flag	⚐	U+2690	&#9872;	From KPS 9566. Map symbol for a battle site.[4]
+Black flag	⚑	U+2691	&#9873;	From KPS 9566. Map symbol for a battle site.[4]
+Hammer and pick	⚒	U+2692	&#9874;	Mining, working day
+Anchor	⚓	U+2693	&#9875;	Nautical term, harbor
+Crossed swords	⚔	U+2694	&#9876;	Military term, battleground, killed in action
+Rod of Asclepius	⚕	U+2695	&#9877;	Medical term
+Scales	⚖	U+2696	&#9878;	Legal term, jurisprudence
+Alembic	⚗	U+2697	&#9879;	Chemical term, chemistry
+Flower	⚘	U+2698	&#9880;	Botanical term
+Gear	⚙	U+2699	&#9881;	Technology, tools
+Staff of Hermes	⚚	U+269A	&#9882;	Caduceus, commercial term, commerce
+Atom symbol	⚛	U+269B	&#9883;	Nuclear installation
+Fleur-de-lis	⚜	U+269C	&#9884;	France, Quebec, Trinity, Scouting
+Outlined white star	⚝	U+269D	&#9885;	Coat of arms of Morocco
+Three lines converging right	⚞	U+269E	&#9886;	Someone speaking closed captioning symbol (from ARIB STD B24)
+Three lines converging left	⚟	U+269F	&#9887;	Background speaking closed captioning symbol (from ARIB STD B24)
+Warning sign	⚠	U+26A0	&#9888;	
+High voltage sign	⚡	U+26A1	&#9889;	
+Doubled female sign	⚢	U+26A2	&#9890;	Female homosexuality
+Doubled male sign	⚣	U+26A3	&#9891;	Male homosexuality
+Interlocked female and male sign	⚤	U+26A4	&#9892;	Male or Female bisexuality
+Male and female sign	⚥	U+26A5	&#9893;	Male or Female heterosexuality, Hermaphrodite (in entomology)
+Male with stroke sign	⚦	U+26A6	&#9894;	Transgender
+Male with stroke and male and female sign
+Transgender symbol (Emoji 13.0)[5]	⚧	U+26A7	&#9895;	Transgender
+Vertical male with stroke sign	⚨	U+26A8	&#9896;	Iron (II) sulfate
+Horizontal male with stroke sign	⚩	U+26A9	&#9897;	Magnesium
+Medium white circle	⚪	U+26AA	&#9898;	Asexuality, sexless, genderless, engaged, betrothed
+Medium black circle	⚫	U+26AB	&#9899;	Symbol for record function
+Medium small white circle	⚬	U+26AC	&#9900;	Engaged, betrothed
+Marriage symbol	⚭	U+26AD	&#9901;	
+Divorce symbol	⚮	U+26AE	&#9902;	
+Unmarried partnership symbol	⚯	U+26AF	&#9903;	
+Coffin	⚰	U+26B0	&#9904;	Buried (genealogy)
+Funeral urn	⚱	U+26B1	&#9905;	Cremated (genealogy)
+Neuter	⚲	U+26B2	&#9906;	
+Ceres	⚳	U+26B3	&#9907;	1 Ceres (dwarf planet)
+Pallas	⚴	U+26B4	&#9908;	2 Pallas
+Juno	⚵	U+26B5	&#9909;	3 Juno
+Vesta	⚶	U+26B6	&#9910;	4 Vesta
+Chiron	⚷	U+26B7	&#9911;	2060 Chiron
+Black moon Lilith	⚸	U+26B8	&#9912;	
+Sextile	⚹	U+26B9	&#9913;	Sal ammoniac
+Semisextile	⚺	U+26BA	&#9914;	
+Quincunx	⚻	U+26BB	&#9915;	
+Sesquiquadrate	⚼	U+26BC	&#9916;	
+Football	⚽	U+26BD	&#9917;	
+Baseball	⚾	U+26BE	&#9918;	
+Squared key	⚿	U+26BF	&#9919;	Parental lock (from ARIB STD B24)
+White draughts man	⛀	U+26C0	&#9920;	
+White draughts king	⛁	U+26C1	&#9921;	
+Black draughts man	⛂	U+26C2	&#9922;	
+Black draughts king	⛃	U+26C3	&#9923;	
+Snowman without snow	⛄	U+26C4	&#9924;	Light snow (from ARIB STD B24)
+Sun behind cloud	⛅	U+26C5	&#9925;	Partly cloudy (from ARIB STD B24)
+Rain	⛆	U+26C6	&#9926;	Rainy weather (from ARIB STD B24)
+Black snowman	⛇	U+26C7	&#9927;	Heavy snow (from ARIB STD B24)
+Thunder cloud and rain	⛈	U+26C8	&#9928;	Thunderstorm (from ARIB STD B24)
+Turned white shogi piece	⛉	U+26C9	&#9929;	From ARIB STD B24
+Turned black shogi piece	⛊	U+26CA	&#9930;	From ARIB STD B24
+White diamond in square	⛋	U+26CB	&#9931;	From ARIB STD B24
+Crossing lanes	⛌	U+26CC	&#9932;	Accident (from ARIB STD B24)
+Disabled car	⛍	U+26CD	&#9933;	From ARIB STD B24
+Ophiuchus	⛎	U+26CE	&#9934;	Ophiuchus (astrology), new in Unicode 6.
+Pick	⛏	U+26CF	&#9935;	Under construction (from ARIB STD B24)
+Car sliding	⛐	U+26D0	&#9936;	Icy road (from ARIB STD B24)
+Helmet with white cross	⛑	U+26D1	&#9937;	Maintenance (from ARIB STD B24)
+Circled crossing lanes	⛒	U+26D2	&#9938;	Road closed (from ARIB STD B24)
+Chains	⛓	U+26D3	&#9939;	Tyre chains required (from ARIB STD B24)
+No entry	⛔	U+26D4	&#9940;	From ARIB STD B24
+Alternate one-way left way traffic	⛕	U+26D5	&#9941;	From ARIB STD B24
+Black two-way left way traffic	⛖	U+26D6	&#9942;	From ARIB STD B24
+White two-way left way traffic	⛗	U+26D7	&#9943;	From ARIB STD B24
+Black left lane merge	⛘	U+26D8	&#9944;	From ARIB STD B24
+White left lane merge	⛙	U+26D9	&#9945;	From ARIB STD B24
+Drive slow sign	⛚	U+26DA	&#9946;	From ARIB STD B24
+Heavy white down-pointing triangle	⛛	U+26DB	&#9947;	Drive slow (from ARIB STD B24)
+Left closed entry	⛜	U+26DC	&#9948;	From ARIB STD B24
+Squared saltire	⛝	U+26DD	&#9949;	Closed entry (from ARIB STD B24)
+Falling diagonal in white circle in black square	⛞	U+26DE	&#9950;	Closed to large vehicles (from ARIB STD B24)
+Black truck	⛟	U+26DF	&#9951;	Closed to large vehicles, alternate (from ARIB STD B24)
+Restricted left entry-1	⛠	U+26E0	&#9952;	From ARIB STD B24
+Restricted left entry-2	⛡	U+26E1	&#9953;	From ARIB STD B24
+Astronomical symbol for Uranus	⛢	U+26E2	&#9954;	New in Unicode 6.
+Heavy circle with stroke and two dots above	⛣	U+26E3	&#9955;	Public office (from ARIB STD B24)
+Pentagram	⛤	U+26E4	&#9956;	New in Unicode 6
+Right-handed interlaced pentagram	⛥	U+26E5	&#9957;	New in Unicode 6
+Left-handed interlaced pentagram	⛦	U+26E6	&#9958;	New in Unicode 6
+Inverted pentagram	⛧	U+26E7	&#9959;	New in Unicode 6
+Black cross on shield	⛨	U+26E8	&#9960;	Hospital (from ARIB STD B24)
+Shinto shrine	⛩	U+26E9	&#9961;	Torii (from ARIB STD B24)
+Church	⛪	U+26EA	&#9962;	From ARIB STD B24
+Castle	⛫	U+26EB	&#9963;	From ARIB STD B24
+Historic site	⛬	U+26EC	&#9964;	From ARIB STD B24
+Gear without hub	⛭	U+26ED	&#9965;	Factory (from ARIB STD B24)
+Gear with handles	⛮	U+26EE	&#9966;	Power plant, power substation (from ARIB STD B24)
+Map symbol for lighthouse	⛯	U+26EF	&#9967;	From ARIB STD B24
+Mountain	⛰	U+26F0	&#9968;	From ARIB STD B24
+Umbrella on ground	⛱	U+26F1	&#9969;	Bathing beach (from ARIB STD B24)
+Fountain	⛲	U+26F2	&#9970;	Park (from ARIB STD B24)
+Flag in hole	⛳	U+26F3	&#9971;	Golf course (from ARIB STD B24)
+Ferry	⛴	U+26F4	&#9972;	Ferry boat terminal (from ARIB STD B24)
+Sailboat	⛵	U+26F5	&#9973;	Marina or yacht harbour (from ARIB STD B24)
+Square four corners	⛶	U+26F6	&#9974;	Intersection (from ARIB STD B24)
+Skier	⛷	U+26F7	&#9975;	Ski resort (from ARIB STD B24)
+Ice skate	⛸	U+26F8	&#9976;	Ice skating rink (from ARIB STD B24)
+Person with ball	⛹	U+26F9	&#9977;	Track and field, gymnasium (from ARIB STD B24)
+Tent	⛺	U+26FA	&#9978;	Camping site (from ARIB STD B24)
+Japanese bank symbol	⛻	U+26FB	&#9979;	From ARIB STD B24
+Headstone graveyard symbol	⛼	U+26FC	&#9980;	Graveyard, memorial park, cemetery (from ARIB STD B24)
+Fuel pump	⛽	U+26FD	&#9981;	Petrol station, gas station (from ARIB STD B24)
+Cup on black square	⛾	U+26FE	&#9982;	Drive-in restaurant (from ARIB STD B24)
+White flag with horizontal middle black stripe	⛿	U+26FF	&#9983;	Japanese self-defense force site (from ARIB STD B24)
+Compact table
+Miscellaneous Symbols[1]
+Official Unicode Consortium code chart (PDF)
+ 	0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F
+U+260x	☀	☁	☂	☃	☄	★	☆	☇	☈	☉	☊	☋	☌	☍	☎	☏
+U+261x	☐	☑	☒	☓	☔	☕	☖	☗	☘	☙	☚	☛	☜	☝	☞	☟
+U+262x	☠	☡	☢	☣	☤	☥	☦	☧	☨	☩	☪	☫	☬	☭	☮	☯
+U+263x	☰	☱	☲	☳	☴	☵	☶	☷	☸	☹	☺	☻	☼	☽	☾	☿
+U+264x	♀	♁	♂	♃	♄	♅	♆	♇	♈	♉	♊	♋	♌	♍	♎	♏
+U+265x	♐	♑	♒	♓	♔	♕	♖	♗	♘	♙	♚	♛	♜	♝	♞	♟
+U+266x	♠	♡	♢	♣	♤	♥	♦	♧	♨	♩	♪	♫	♬	♭	♮	♯
+U+267x	♰	♱	♲	♳	♴	♵	♶	♷	♸	♹	♺	♻	♼	♽	♾	♿
+U+268x	⚀	⚁	⚂	⚃	⚄	⚅	⚆	⚇	⚈	⚉	⚊	⚋	⚌	⚍	⚎	⚏
+U+269x	⚐	⚑	⚒	⚓	⚔	⚕	⚖	⚗	⚘	⚙	⚚	⚛	⚜	⚝	⚞	⚟
+U+26Ax	⚠	⚡	⚢	⚣	⚤	⚥	⚦	⚧	⚨	⚩	⚪	⚫	⚬	⚭	⚮	⚯
+U+26Bx	⚰	⚱	⚲	⚳	⚴	⚵	⚶	⚷	⚸	⚹	⚺	⚻	⚼	⚽	⚾	⚿
+U+26Cx	⛀	⛁	⛂	⛃	⛄	⛅	⛆	⛇	⛈	⛉	⛊	⛋	⛌	⛍	⛎	⛏
+U+26Dx	⛐	⛑	⛒	⛓	⛔	⛕	⛖	⛗	⛘	⛙	⛚	⛛	⛜	⛝	⛞	⛟
+U+26Ex	⛠	⛡	⛢	⛣	⛤	⛥	⛦	⛧	⛨	⛩	⛪	⛫	⛬	⛭	⛮	⛯
+U+26Fx	⛰	⛱	⛲	⛳	⛴	⛵	⛶	⛷	⛸	⛹	⛺	⛻	⛼	⛽	⛾	⛿
+Notes
+1.^ As of Unicode version 13.0
+Emoji
+The Miscellaneous Symbols block contains 83 emoji: U+2600–U+2604, U+260E, U+2611, U+2614–U+2615, U+2618, U+261D, U+2620, U+2622–U+2623, U+2626, U+262A, U+262E–U+262F, U+2638–U+263A, U+2640, U+2642, U+2648–U+2653, U+265F–U+2660, U+2663, U+2665–U+2666, U+2668, U+267B, U+267E–U+267F, U+2692–U+2697, U+2699, U+269B–U+269C, U+26A0–U+26A1, U+26A7, U+26AA–U+26AB, U+26B0–U+26B1, U+26BD–U+26BE, U+26C4–U+26C5, U+26C8, U+26CE–U+26CF, U+26D1, U+26D3–U+26D4, U+26E9–U+26EA, U+26F0–U+26F5, U+26F7–U+26FA and U+26FD.[6][7]
+
+The block has 164 standardized variants defined to specify emoji-style (U+FE0F VS16) or text presentation (U+FE0E VS15) for the following 82 base characters: U+2600–U+2604, U+260E, U+2611, U+2614–U+2615, U+2618, U+261D, U+2620, U+2622–U+2623, U+2626, U+262A, U+262E–U+262F, U+2638–U+263A, U+2640, U+2642, U+2648–U+2653, U+265F–U+2660, U+2663, U+2665–U+2666, U+2668, U+267B, U+267E–U+267F, U+2692–U+2697, U+2699, U+269B–U+269C, U+26A0–U+26A1, U+26A7, U+26AA–U+26AB, U+26B0–U+26B1, U+26BD–U+26BE, U+26C4–U+26C5, U+26C8, U+26CF, U+26D1, U+26D3–U+26D4, U+26E9–U+26EA, U+26F0–U+26F5, U+26F7–U+26FA and U+26FD.[8]
+
+Emoji variation sequences
+U+	2600	2601	2602	2603	2604	260E	2611	2614	2615	2618	261D	2620
+default presentation	text	text	text	text	text	text	text	emoji	emoji	text	text	text
+base code point	☀	☁	☂	☃	☄	☎	☑	☔	☕	☘	☝	☠
+base+VS15 (text)	☀︎	☁︎	☂︎	☃︎	☄︎	☎︎	☑︎	☔︎	☕︎	☘︎	☝︎	☠︎
+base+VS16 (emoji)	☀️	☁️	☂️	☃️	☄️	☎️	☑️	☔️	☕️	☘️	☝️	☠️
+U+	2622	2623	2626	262A	262E	262F	2638	2639	263A	2640	2642	2648
+default presentation	text	text	text	text	text	text	text	text	text	text	text	emoji
+base code point	☢	☣	☦	☪	☮	☯	☸	☹	☺	♀	♂	♈
+base+VS15 (text)	☢︎	☣︎	☦︎	☪︎	☮︎	☯︎	☸︎	☹︎	☺︎	♀︎	♂︎	♈︎
+base+VS16 (emoji)	☢️	☣️	☦️	☪️	☮️	☯️	☸️	☹️	☺️	♀️	♂️	♈️
+U+	2649	264A	264B	264C	264D	264E	264F	2650	2651	2652	2653	265F
+default presentation	emoji	emoji	emoji	emoji	emoji	emoji	emoji	emoji	emoji	emoji	emoji	text
+base code point	♉	♊	♋	♌	♍	♎	♏	♐	♑	♒	♓	♟
+base+VS15 (text)	♉︎	♊︎	♋︎	♌︎	♍︎	♎︎	♏︎	♐︎	♑︎	♒︎	♓︎	♟︎
+base+VS16 (emoji)	♉️	♊️	♋️	♌️	♍️	♎️	♏️	♐️	♑️	♒️	♓️	♟️
+U+	2660	2663	2665	2666	2668	267B	267E	267F	2692	2693	2694	2695
+default presentation	text	text	text	text	text	text	text	emoji	text	emoji	text	text
+base code point	♠	♣	♥	♦	♨	♻	♾	♿	⚒	⚓	⚔	⚕
+base+VS15 (text)	♠︎	♣︎	♥︎	♦︎	♨︎	♻︎	♾︎	♿︎	⚒︎	⚓︎	⚔︎	⚕︎
+base+VS16 (emoji)	♠️	♣️	♥️	♦️	♨️	♻️	♾️	♿️	⚒️	⚓️	⚔️	⚕️
+U+	2696	2697	2699	269B	269C	26A0	26A1	26A7	26AA	26AB	26B0	26B1
+default presentation	text	text	text	text	text	text	emoji	text	emoji	emoji	text	text
+base code point	⚖	⚗	⚙	⚛	⚜	⚠	⚡	⚧	⚪	⚫	⚰	⚱
+base+VS15 (text)	⚖︎	⚗︎	⚙︎	⚛︎	⚜︎	⚠︎	⚡︎	⚧︎	⚪︎	⚫︎	⚰︎	⚱︎
+base+VS16 (emoji)	⚖️	⚗️	⚙️	⚛️	⚜️	⚠️	⚡️	⚧️	⚪️	⚫️	⚰️	⚱️
+U+	26BD	26BE	26C4	26C5	26C8	26CF	26D1	26D3	26D4	26E9	26EA	26F0
+default presentation	emoji	emoji	emoji	emoji	text	text	text	text	emoji	text	emoji	text
+base code point	⚽	⚾	⛄	⛅	⛈	⛏	⛑	⛓	⛔	⛩	⛪	⛰
+base+VS15 (text)	⚽︎	⚾︎	⛄︎	⛅︎	⛈︎	⛏︎	⛑︎	⛓︎	⛔︎	⛩︎	⛪︎	⛰︎
+base+VS16 (emoji)	⚽️	⚾️	⛄️	⛅️	⛈️	⛏️	⛑️	⛓️	⛔️	⛩️	⛪️	⛰️
+U+	26F1	26F2	26F3	26F4	26F5	26F7	26F8	26F9	26FA	26FD
+default presentation	text	emoji	emoji	text	emoji	text	text	text	emoji	emoji
+base code point	⛱	⛲	⛳	⛴	⛵	⛷	⛸	⛹	⛺	⛽
+base+VS15 (text)	⛱︎	⛲︎	⛳︎	⛴︎	⛵︎	⛷︎	⛸︎	⛹︎	⛺︎	⛽︎
+base+VS16 (emoji)	⛱️	⛲️	⛳️	⛴️	⛵️	⛷️	⛸️	⛹️	⛺️	⛽️
+Emoji modifiers
+Main article: Emoji modifiers
+The Miscellaneous Symbols block has two emoji that represent people or body parts. They can be modified using U+1F3FB–U+1F3FF to provide for a range of human skin color using the Fitzpatrick scale:[7]
+
+Human emoji
+U+	261D	26F9
+emoji	☝️	⛹
+FITZ-1-2	☝️🏻	⛹🏻
+FITZ-3	☝️🏼	⛹🏼
+FITZ-4	☝️🏽	⛹🏽
+FITZ-5	☝️🏾	⛹🏾
+FITZ-6	☝️🏿	⛹🏿

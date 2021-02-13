@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Task1">
+      <UniqueIdentifier>{2c2c3923-303b-47e7-af1a-12b160ae32a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GeneralClasses">
+      <UniqueIdentifier>{4622047f-2ee2-4700-a50f-88e3079bfe9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Task2">
+      <UniqueIdentifier>{e7dddaee-93b4-4eb8-adfb-c8f80bd2d0df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Task3">
+      <UniqueIdentifier>{6141338c-f80c-4e50-a2ec-81a60c0b8684}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Task4">
+      <UniqueIdentifier>{b4fc3992-7843-4fac-819b-1c0a296c0f0f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lesson1HW_part1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadFileClass.cpp">
+      <Filter>GeneralClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="StringLengthAnalyzer.cpp">
+      <Filter>Task1</Filter>
+    </ClCompile>
+    <ClCompile Include="WordsCounter.cpp">
+      <Filter>Task2</Filter>
+    </ClCompile>
+    <ClCompile Include="InputReader.cpp">
+      <Filter>GeneralClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="WriteFile.cpp">
+      <Filter>GeneralClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="RewriteUnicodeAnsi.cpp">
+      <Filter>Task3</Filter>
+    </ClCompile>
+    <ClCompile Include="FruitsCounter.cpp">
+      <Filter>Task4</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ReadFileHeader.h">
+      <Filter>GeneralClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Headlines.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StringLengthAnalyzer.h">
+      <Filter>Task1</Filter>
+    </ClInclude>
+    <ClInclude Include="WordsCounter.h">
+      <Filter>Task2</Filter>
+    </ClInclude>
+    <ClInclude Include="InputReader.h">
+      <Filter>GeneralClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="WriteFile.h">
+      <Filter>GeneralClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="RewriteUnicodeAnsi.h">
+      <Filter>Task3</Filter>
+    </ClInclude>
+    <ClInclude Include="FruitsCounter.h">
+      <Filter>Task4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

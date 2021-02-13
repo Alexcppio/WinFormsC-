@@ -11,8 +11,14 @@
 #include <time.h>
 #include <algorithm>
 #include <iostream>
-#include "MessageBoxHeader.h"
-#include "GuessingHeader.h"
+#include <fstream>
+#include "ReadFileHeader.h"
+#include "InputReader.h"
+#include "StringLengthAnalyzer.h"
+#include "WordsCounter.h"
+#include "RewriteUnicodeAnsi.h"
+#include "WriteFile.h"
+#include "FruitsCounter.h"
 
 #if defined(UNICODE)
 #define _tstring wstring
