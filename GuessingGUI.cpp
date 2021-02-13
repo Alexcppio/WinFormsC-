@@ -2,7 +2,7 @@
 
 GuessingGUI::GuessingGUI()
 {
-	ShowStartMB();
+    ShowStartMB();
 }
 void GuessingGUI::ShowStartMB()
 {

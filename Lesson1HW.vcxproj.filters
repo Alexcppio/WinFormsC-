@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MessageBoxRealization.cpp">
+      <Filter>Task5</Filter>
+    </ClCompile>
+    <ClCompile Include="GuessingGUI.cpp">
+      <Filter>Task6</Filter>
+    </ClCompile>
+    <ClCompile Include="GuessingLogics.cpp">
+      <Filter>Task6</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Task5">
+      <UniqueIdentifier>{6b9a1714-0952-4f03-86d2-2833906b5333}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Task6">
+      <UniqueIdentifier>{0e4f2351-6ce1-4b6f-ab3e-80c53148e4f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GeneralClasses">
+      <UniqueIdentifier>{f0ddd78b-ea77-4bde-9ece-8059cc6f5901}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MessageBoxHeader.h">
+      <Filter>Task5</Filter>
+    </ClInclude>
+    <ClInclude Include="GuessingHeader.h">
+      <Filter>Task6</Filter>
+    </ClInclude>
+    <ClInclude Include="Headlines.h">
+      <Filter>GeneralClasses</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

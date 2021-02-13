@@ -15,11 +15,11 @@ int GuessingLogics::generateNumber()
 }
 bool GuessingLogics::checkNumber(int number, std::vector<int> rejectedNumbers)
 {
-	if (std::binary_search(rejectedNumbers.begin(), rejectedNumbers.end(), number)) 
+	if (std::binary_search(rejectedNumbers.begin(), rejectedNumbers.end(), number))
 	{
 		return true;
 	}
-	else 
+	else
 	{
 		return false;
 	}

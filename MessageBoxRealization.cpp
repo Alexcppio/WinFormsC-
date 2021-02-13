@@ -17,7 +17,7 @@ void MessageBoxCustom::MessageBoxStart()
         {
             std::pair<std::wstring, std::wstring> finalPair;
             finalPair.second = obj.messageBoxes[0 + i].second;
-            finalPair.first = L"Average number of symbols: " + std::to_wstring(calcNumber/ obj.messageBoxes.size());
+            finalPair.first = L"Average number of symbols: " + std::to_wstring(calcNumber / obj.messageBoxes.size());
             MessageBoxRun(finalPair);
         }
         else
